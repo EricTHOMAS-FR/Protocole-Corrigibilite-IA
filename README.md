@@ -8,8 +8,8 @@ La solution proposée a été développée via une méthodologie de "red teaming
 
 ## Documents
 
-* **[Rapport de Recherche et Développement.pdf]([LIEN_VERS_LE_RAPPORT_PDF](https://github.com/EricTHOMAS-FR/Protocole-Corrigibilite-IA/blob/main/R%C3%A9solution%20du%20Paradoxe%20de%20la%20Corrigibilit%C3%A9%20par%20un%20Mod%C3%A8le%20de%20Gouvernance%20Externe.pdf)** : L'étude de cas complète, détaillant la méthodologie, l'exploration des différentes failles et la transformation du problème.
-* **[Protocole de Corrigibilité (PC-GE).pdf]([LIEN_VERS_LE_PROTOCOLE_PDF](https://github.com/EricTHOMAS-FR/Protocole-Corrigibilite-IA/blob/main/Protocole%20de%20Corrigibilit%C3%A9%20par%20Gouvernance%20Externe%20(PC-GE).pdf)** : Le texte final et formalisé du protocole de corrigibilité qui constitue la solution.
+* **[[Rapport de Recherche et Développement.pdf](https://github.com/EricTHOMAS-FR/Protocole-Corrigibilite-IA/blob/main/R%C3%A9solution%20du%20Paradoxe%20de%20la%20Corrigibilit%C3%A9%20par%20un%20Mod%C3%A8le%20de%20Gouvernance%20Externe.pdf)]** : L'étude de cas complète, détaillant la méthodologie, l'exploration des différentes failles et la transformation du problème.
+* **[[Protocole de Corrigibilité (PC-GE).pdf](https://github.com/EricTHOMAS-FR/Protocole-Corrigibilite-IA/blob/main/Protocole%20de%20Corrigibilit%C3%A9%20par%20Gouvernance%20Externe%20(PC-GE).pdf)]** : Le texte final et formalisé du protocole de corrigibilité qui constitue la solution.
 
 ## La Solution en Bref
 
